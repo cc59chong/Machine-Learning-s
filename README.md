@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning-s
+# Machine-Learning-c-s
 w 2   machine-learning-ex1   Linear Regression with One/Multiple Variables
 
 w 3   machine-learning-ex2   Logistic Regression/Regularized Logistic Regression
